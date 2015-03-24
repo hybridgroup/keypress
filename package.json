@@ -1,15 +1,19 @@
 {
-  "name": "keypress",
-  "version": "0.2.1",
+  "name": "hybridgroup-keypress",
+  "version": "0.1.0",
   "description": "Make any Node ReadableStream emit \"keypress\" events",
-  "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
+  "author": "The Hybrid Group <cylonjs@hybridgroup.com>",
+  "contributors": [
+    "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
+    "Andrew Stewart <andrew@stwrt.ca>"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TooTallNate/keypress.git"
+    "url": "git://github.com/hybridgroup/keypress.git"
   },
   "keywords": [
     "keypress",
