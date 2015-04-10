@@ -2,9 +2,8 @@
   "name": "hybridgroup-keypress",
   "version": "0.1.0",
   "description": "Make any Node ReadableStream emit \"keypress\" events",
-  "author": "The Hybrid Group <cylonjs@hybridgroup.com>",
+  "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
   "contributors": [
-    "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
     "Andrew Stewart <andrew@stwrt.ca>"
   ],
   "main": "index.js",
